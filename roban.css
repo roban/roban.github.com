@@ -27,8 +27,9 @@ img{border-style: none;}
 .description {font-size: 1.1em; margin: 0px; padding:0px; 
 	      font-family: "sans-serif"}
 
-.projectcontainer {align: center; width:92%; max-width:150ex; margin: 0 4%;}
-.project {float: left; margin: 1%; min-width: 256px; width: 31%; padding: 0; 
+.projectcontainer {align: center; width:92%; max-width:150ex; margin: 0 4%; clear: both}
+.project {float: left; margin: 1%; min-width: 256px; min-height: 50px;
+	  width: 31%; padding: 0; 
 	  text-align: center; font-family: "sans-serif";
 	  background: #FFFFFF; border:1px solid #000000;}
 .project h2 {margin-bottom: 0ex; margin-top: 0.0ex;}
