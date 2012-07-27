@@ -28,7 +28,7 @@ img{border-style: none;}
 	      font-family: "sans-serif"}
 
 .projectcontainer {align: center; width:92%; max-width:150ex; margin: 0 4%; clear: both}
-.project {float: left; margin: 1%; min-width: 256px; min-height: 50px;
+.project {float: left; margin: 1%; min-width: 355px; min-height: 50px;
 	  width: 31%; padding: 0; 
 	  text-align: center; font-family: "sans-serif";
 	  background: #FFFFFF; border:1px solid #000000;}
