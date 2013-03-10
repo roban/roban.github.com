@@ -2,7 +2,7 @@ body {background-color: #FFFFFF; font-family: "Veradana,sans-serif";
       color: #000000;}
 p{ max-width: 90ex }
 
-h1 {font-size: 1.5em; color: #AA0000; font-family: "sans-serif";}
+h1 {font-size: 60px; color: #AA0000; font-family: "sans-serif";}
 h2 {font-size: 1.3em; color: #AA0000; font-family: "sans-serif"; 
     background: #FFE0E0;}
 h3 {font-size: 1.0em; color: #AA0000; font-family: "sans-serif"; 
@@ -16,7 +16,7 @@ img{border-style: none;}
 
 .container {align: center; width:90%; max-width:150ex; margin: 0 5%; padding:0}
 
-.headshot {position: absolute; top: 25px; right: 150px; border: 0;}
+.headshot {position: absolute; top: 25px; left: 80%; border: 0;}
 
 .banner {position: absolute; top: 0px; left: 0px; border: 0; z-index: -1; 
 	 width:100%; overflow:hidden; text-align:center}
