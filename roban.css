@@ -5,9 +5,11 @@ body {
 }
 h1 {
 		font-size: 60px; color: #AA0000; font-family: "sans-serif";}
-h2 {font-size: 1.3em; color: #AA0000; font-family: "sans-serif";}
+h2 {font-size: 1.3em; color: #AA0000; font-family: "sans-serif"; 
+		margin-top:3em}
 h3 {font-size: 1.0em; color: #AA0000; font-family: "sans-serif";}
 
+ins { text-decoration:none }
 a {color: #3030AA; text-decoration:none}
 a:hover {text-decoration:underline}
 
