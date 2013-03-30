@@ -36,12 +36,18 @@ img{border-style: none;}
 }
 .project {
 		display: inline-block; 
-		padding: 0; 
+		max-width: 30%;
+		padding: 0.5em;
+		margin-top: 0.1em;
+		margin-bottom: 0.1em;
 		text-align: center; 
 		font-family: "sans-serif";
 	  background: #FFFFFF; 
-		border:1px solid #000000; 
+		border:2px solid #888; 
 		vertical-align:top}
+.project img{
+		max-width: 100%;
+}
 .project h2 {margin-bottom: 0ex; margin-top: 0.0ex;}
 .project h3 {margin-bottom: 0.5ex; margin-top: 0.0ex; background-color: #fff}
 .project p{padding-left: 12pt; padding-right: 12pt; 
