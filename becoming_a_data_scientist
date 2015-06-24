@@ -1,0 +1,24 @@
+# From Natuaral Science PhD to Machine Learning Professional
+
+## scikit-learn (sklearn) python module
+
+Run through some of the tutorials at http://scikit-learn.org/stable/tutorial/
+
+Develop a familiarity with the vocabulary and the comparative advantages of various types of models. Learn about tuning hyperparameters, tuning classifier thresholds, model evaluation (precision, recall, AUC), supervised and un-supervised methods, pre-processing steps for various types of data (including natural language texts).
+
+## R
+
+I'm not an R user, but if you're inclined in that direction it might be useful to look at some R machine learning packages.
+
+## Scala
+
+
+## Kagel
+
+Personally, I've never participated in a kagel competition, but I have absorbed some practical tips from perusing blog posts by successful competitors.
+
+## Papers for background
+
+https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf
+
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
